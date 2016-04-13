@@ -1,0 +1,8 @@
+h1{color:red;font-size:14px;}
+
+/*选择器		声明				声明
+	 h1 {color   :   red; font-size   :    14px;}
+		属性		值		属性	 		值*/
+p{
+	font-size:12px;
+}
